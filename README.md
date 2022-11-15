@@ -7,4 +7,4 @@ https://tinyurl.com/3ja32j9h
 
 
 NOTE:
-Values are within +/- 0.01 ppm
+Values are within +/- 0.5 ppm
